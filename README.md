@@ -1,4 +1,5 @@
 # Addiction studies
+
 Branch Structure
 
 main branch: development test branch: pre-development
@@ -16,4 +17,3 @@ branch anatomy: type/title
 type: core | feature | bugfix
 
 pre-development branch is synced to the development branch once a week.
-
